@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { check } from 'meteor/check';
+
 import { Tasks } from '../api/tasks.js';
 
 // Task component - represents a single todo item
